@@ -22,5 +22,3 @@ Implementations and exercises covering fundamental data structures.
 
 ### Software Engineering
 Course-related materials and information about the team project.
-
-> Team project source code is maintained in a separate repository.
