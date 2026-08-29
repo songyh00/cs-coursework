@@ -26,5 +26,3 @@ Exercises and implementations covering fundamental machine learning concepts and
 
 ### Python Programming
 Programming exercises and assignments written in Python.
-
-> Team project source code may be maintained in a separate repository.
