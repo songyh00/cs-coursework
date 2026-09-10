@@ -10,7 +10,7 @@ Coursework and programming exercises completed during the first semester of my t
 | [Data Structures](./data-structures/) | Data structure implementations and assignments |
 | [Software Engineering](./software-engineering/) | Course materials and team project information |
 | Computer Engineering | - |
-| College Mathematics | - |
+| Engineering Mathematics | - |
 
 ## Repository Contents
 
